@@ -1,0 +1,8 @@
+.wp_job_manager_meta_data .form-field textarea {
+	width: 50%;
+	line-height: 1.5em;
+}
+.wp_job_manager_meta_data label[for="_company_name"],
+.wp_job_manager_meta_data #_company_name {
+	display: none;
+}

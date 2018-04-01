@@ -1,0 +1,21 @@
+/* Image */
+img {
+	max-width: none;
+}
+/* Search Form */
+#search-form {
+	width: 254px;
+}
+#search .button__large {
+	width: 130px;
+}
+/* List Elements */
+.list-elements .item.fifth {
+	padding-left: 0;
+	margin-left: 0;
+	border-left: none;
+}
+/* Info Boxes */
+.info-box-num {
+	background: url(../../images/black-opacity-12.png);
+}

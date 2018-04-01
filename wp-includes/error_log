@@ -1,0 +1,221 @@
+[29-Aug-2017 05:34:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss.php on line 8
+[29-Aug-2017 05:34:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/workteam/public_html/wecarehelp.eu/wp-includes/media.php:1486
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/media.php on line 1486
+[29-Aug-2017 05:34:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/workteam/public_html/wecarehelp.eu/wp-includes/update.php:711
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/update.php on line 711
+[29-Aug-2017 05:34:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/session.php on line 8
+[29-Aug-2017 05:35:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/workteam/public_html/wecarehelp.eu/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/vars.php on line 23
+[29-Aug-2017 05:35:11 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/wp-diff.php on line 13
+[29-Aug-2017 05:35:11 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/wp-diff.php on line 13
+[29-Aug-2017 05:35:11 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/wp-diff.php on line 13
+[29-Aug-2017 05:35:11 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/wp-diff.php on line 13
+[29-Aug-2017 05:35:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/locale.php on line 10
+[29-Aug-2017 05:35:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss.php on line 19
+[29-Aug-2017 06:11:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rdf.php on line 8
+[29-Aug-2017 06:12:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2.php on line 8
+[29-Aug-2017 06:12:34 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 06:12:34 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 06:12:34 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 06:12:34 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 06:12:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom.php on line 8
+[29-Aug-2017 06:12:56 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 06:12:56 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 06:12:56 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 06:12:56 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 06:13:06 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 06:13:06 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 06:13:06 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 06:13:06 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 06:13:18 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-feed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-feed.php on line 9
+[29-Aug-2017 06:13:36 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 06:13:36 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 06:13:36 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 06:13:36 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 06:13:56 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-snoopy.php on line 6
+[29-Aug-2017 06:14:07 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration.php on line 7
+[29-Aug-2017 06:14:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss-functions.php on line 8
+[29-Aug-2017 06:15:06 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 06:15:06 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 06:15:06 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 06:15:06 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 06:15:41 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/embed-template.php on line 11
+[29-Aug-2017 06:15:52 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-filters.php on line 17
+[29-Aug-2017 06:16:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/workteam/public_html/wecarehelp.eu/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/template-loader.php on line 28
+[29-Aug-2017 06:16:21 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 06:16:21 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 06:16:21 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 06:16:21 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 06:28:34 Europe/Bucharest] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class.wp-styles.php on line 18
+[29-Aug-2017 06:36:07 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-widgets.php on line 11
+[29-Aug-2017 06:36:07 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-widgets.php on line 11
+[29-Aug-2017 06:36:07 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-widgets.php on line 11
+[29-Aug-2017 06:36:07 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-widgets.php on line 11
+[29-Aug-2017 07:02:36 Europe/Bucharest] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class.wp-scripts.php on line 18
+[29-Aug-2017 07:10:11 Europe/Bucharest] PHP Fatal error:  Class 'Walker' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-walker-page.php on line 17
+[29-Aug-2017 07:25:18 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/nav-menu-template.php on line 11
+[29-Aug-2017 07:25:18 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/nav-menu-template.php on line 11
+[29-Aug-2017 07:25:18 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/nav-menu-template.php on line 11
+[29-Aug-2017 07:25:18 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/nav-menu-template.php on line 11
+[29-Aug-2017 07:55:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom-comments.php on line 8
+[29-Aug-2017 07:59:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2-comments.php on line 8
+[29-Aug-2017 08:03:08 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-default-filters.php on line 16
+[29-Aug-2017 08:14:29 Europe/Bucharest] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-feed-cache.php on line 17
+[29-Aug-2017 08:40:58 Europe/Bucharest] PHP Fatal error:  Class 'Walker' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-walker-comment.php on line 17
+[29-Aug-2017 09:07:27 Europe/Bucharest] PHP Fatal error:  Class 'Walker' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-walker-category.php on line 17
+[29-Aug-2017 09:11:14 Europe/Bucharest] PHP Fatal error:  Class 'Walker' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-walker-nav-menu.php on line 17
+[29-Aug-2017 09:41:31 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration-functions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration-functions.php on line 7
+[29-Aug-2017 10:15:54 Europe/Bucharest] PHP Fatal error:  Class 'IXR_Server' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Aug-2017 10:49:37 Europe/Bucharest] PHP Fatal error:  Class 'SimplePie_File' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-simplepie-file.php on line 17
+[29-Aug-2017 10:53:24 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-panel.php on line 399
+[29-Aug-2017 10:53:24 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-panel.php on line 399
+[29-Aug-2017 10:53:24 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-panel.php on line 399
+[29-Aug-2017 10:53:24 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-panel.php on line 399
+[29-Aug-2017 11:04:45 Europe/Bucharest] PHP Fatal error:  Class 'IXR_Client' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Aug-2017 11:08:32 Europe/Bucharest] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Aug-2017 11:42:35 Europe/Bucharest] PHP Fatal error:  Class 'Walker' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Aug-2017 11:51:22 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-control.php on line 681
+[29-Aug-2017 11:51:22 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-control.php on line 681
+[29-Aug-2017 11:51:22 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-control.php on line 681
+[29-Aug-2017 11:51:22 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-control.php on line 681
+[29-Aug-2017 11:53:57 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-setting.php on line 955
+[29-Aug-2017 11:53:57 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-setting.php on line 955
+[29-Aug-2017 11:53:57 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-setting.php on line 955
+[29-Aug-2017 11:53:57 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-setting.php on line 955
+[29-Aug-2017 12:01:31 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-section.php on line 397
+[29-Aug-2017 12:01:31 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-section.php on line 397
+[29-Aug-2017 12:01:31 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-section.php on line 397
+[29-Aug-2017 12:01:31 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-customize-section.php on line 397
+[29-Aug-2017 12:35:34 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss.php on line 19
+[29-Aug-2017 12:39:42 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/locale.php on line 10
+[29-Aug-2017 12:43:09 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rdf.php on line 8
+[29-Aug-2017 12:46:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-rss2.php on line 8
+[29-Aug-2017 12:50:42 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 12:50:42 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 12:50:42 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 12:50:42 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/functions.php on line 8
+[29-Aug-2017 12:54:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/feed-atom.php on line 8
+[29-Aug-2017 12:58:16 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 12:58:16 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 12:58:16 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 12:58:16 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-IXR.php on line 42
+[29-Aug-2017 13:02:03 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 13:02:03 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 13:02:03 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 13:02:03 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-http.php on line 11
+[29-Aug-2017 13:05:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-feed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-feed.php on line 9
+[29-Aug-2017 13:09:37 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 13:09:37 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 13:09:37 Europe/Bucharest] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 13:09:37 Europe/Bucharest] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/ms-settings.php on line 26
+[29-Aug-2017 13:13:24 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-snoopy.php on line 6
+[29-Aug-2017 13:17:11 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/registration.php on line 7
+[29-Aug-2017 13:20:58 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/rss-functions.php on line 8
+[29-Aug-2017 13:24:45 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 13:24:45 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 13:24:45 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 13:24:45 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/script-loader.php on line 20
+[29-Aug-2017 13:28:32 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/workteam/public_html/wecarehelp.eu/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/embed-template.php on line 11
+[29-Aug-2017 13:32:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/default-filters.php on line 17
+[29-Aug-2017 13:36:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/workteam/public_html/wecarehelp.eu/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/workteam/public_html/wecarehelp.eu/wp-includes/template-loader.php on line 28
+[29-Aug-2017 13:39:53 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 13:39:53 Europe/Bucharest] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 13:39:53 Europe/Bucharest] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 13:39:53 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-simplepie.php on line 5
+[29-Aug-2017 13:51:14 Europe/Bucharest] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/workteam/public_html/wecarehelp.eu/wp-includes/class-wp-http-requests-hooks.php on line 17

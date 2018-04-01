@@ -1,0 +1,151 @@
+.postbox{
+	border:0px !important;
+	background-color: #fbfbfb !important;
+}
+
+.postbox .hndle, .stuffbox .hndle{
+	padding: 15px 15px 14px !important;
+	background: #008fed !important;
+	color: #fff !important;
+	font-size: 15px !important;
+	font-weight: 400 !important;
+}
+
+.postbox .handlediv,
+.postbox .handlediv:hover{
+	color:#fff !important;
+	background-color:#00aeff !important;
+	width: 50px !important;
+	height: 50px !important;
+}
+
+.cmb2-postbox .cmb2-wrap {
+    margin: 20px 0 0 0 !important;
+    padding: 0 !important;
+}
+
+.cmb-type-group .cmb2-wrap>.cmb-field-list>.cmb-row,
+.cmb2-postbox .cmb2-wrap>.cmb-field-list>.cmb-row{
+	padding:0px !important;
+}
+
+.cspml_single_field{
+	padding: 20px 20px 0 20px !important;
+	background: #fff !important;
+	/*margin: 9px !important;*/
+}
+
+@media screen and (max-width: 640px) {
+	.cmb-type-group .cmb-th,
+	.cmb2-postbox .cmb-th,
+	.cmb-type-group .cmb-th+.cmb-td,
+	.cmb2-postbox .cmb-th+.cmb-td{
+		width:100% !important;
+	}
+}
+
+.cmb2-wrap input[type=week], 
+.cmb2-wrap input[type=number], 
+.cmb2-wrap input[type=email], 
+.cmb2-wrap input[type=url], 
+/*.cmb2-wrap input[type=search], */
+.cmb2-wrap input[type=tel], 
+.cmb2-wrap input[type=color], 
+.cmb2-wrap input[type=text], 
+.cmb2-wrap input[type=password], 
+.cmb2-wrap input[type=datetime], 
+.cmb2-wrap input[type=datetime-local], 
+.cmb2-wrap input[type=date], 
+.cmb2-wrap input[type=month], 
+.cmb2-wrap input[type=time], 
+.cmb2-wrap select,
+.cmb2-wrap textarea,
+.select2-container--default .select2-selection--multiple .select2-selection__rendered{
+	background: #fafafa !important;	
+	border: 1px solid #f1f1f1 !important;	
+	-webkit-border-radius: 0 !important;	
+	-moz-border-radius: 0 !important;	
+	-o-border-radius: 0 !important;	
+	border-radius: 0 !important;	
+	-webkit-box-shadow: none !important;	
+	-moz-box-shadow: none !important;	
+	box-shadow: none !important;	
+	-webkit-transition: all .3s ease !important;	
+	-moz-transition: all .3s ease !important;	
+	-ms-transition: all .3s ease !important;	
+	-o-transition: all .3s ease !important;	
+	transition: all .3s ease !important;	
+	font-weight: 200 !important;	
+	padding:10px 12px !important;
+	width:100% !important;
+	height: auto !important;
+}
+
+.cmb2-wrap .cmb2-upload-button{
+	margin-left:0 !important;
+	margin-top:10px !important;
+}
+
+#poststuff .repeatable .cmb-group-title{
+	padding: 11px 15px 11px 35px !important;
+	font-size: 14px !important;
+}
+
+.cmb2-metabox .cmbhandle{
+	color: #32373c !important;
+	width: 44px !important;
+	height: 44px !important;
+}
+
+.cmb2-metabox .cmbhandle:before{
+	right:0 !important;
+	padding: 12px 12px !important;
+	background: #ccc !important;
+}
+
+.cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row{
+	top:10px !important;
+}
+
+.select2-container--default .select2-selection--multiple{
+	border:0 !important;
+	/*border-radius:0 !important;
+	background: #fafafa !important;	
+	border: 1px solid #f1f1f1 !important;*/						
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered{
+	padding:7px 12px !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+	background-color: #ddd !important;
+	border: 1px solid #aaa !important;
+	border-radius: 0 !important;
+}
+
+.cmb-post-search-ajax-results{
+	width:100% !important;
+}
+
+#poststuff .cmb-repeatable-group h2 {
+	color: #222 !important;
+	font-weight: 600 !important;
+	padding-left: 0 !important;
+}
+
+.cmb2-wrap .cmb-row.cmb-repeat .cmb2-metabox-description{
+	font-weight:400 !important;
+	padding-bottom:0 !important;
+}
+
+#poststuff .cmb-group-title{
+	min-height: 1.6em !important;
+}
+
+.metabox-holder .stuffbox > h3, 
+.metabox-holder .postbox > h3, 
+.metabox-holder h3.hndle{
+	padding-top: 11px !important;
+	padding-bottom:11px !important;
+}

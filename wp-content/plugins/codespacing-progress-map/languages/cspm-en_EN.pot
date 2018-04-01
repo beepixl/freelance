@@ -1,0 +1,1252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Progress Map\n"
+"POT-Creation-Date: 2017-06-02 00:59+0000\n"
+"PO-Revision-Date: 2016-03-06 23:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: img\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: libs\n"
+"X-Poedit-SearchPathExcluded-4: settings\n"
+
+#: cpt/inc/cspm-metabox.php:107
+msgid "(Custom) Post Type"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:142
+msgid "Map Shortcode"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:174
+msgid "Progress Map Settings"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:533
+msgid "Custom Field {#}"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:534
+msgid "Add New Custom Field"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:535
+msgid "Remove Custom Fields"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1798
+msgid "Marker Image {#}"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1799
+msgid "Add New Marker Image"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1800
+msgid "Remove Marker Image"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1877
+msgid "KML/KMZ {#}"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1878
+msgid "Add New KML/KMZ"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:1879
+msgid "Remove KML/KMZ"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2016
+msgid "Polyline {#}"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2017
+msgid "Add New Polyline"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2018
+msgid "Remove Polyline"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2208
+msgid "Polygon {#}"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2209
+msgid "Add New Polygon"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:2210
+msgid "Remove Polygon"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3749
+msgid "Unit System"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3751
+msgid ""
+"Choose the unit system to use when displaying distance. Defaults to \"Metric "
+"(Km)\"."
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3761
+msgid "Maximum Radius"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3763
+msgid ""
+"Choose the maximum distance from the given location within which to search "
+"for Places, in meters. The maximum allowed value is 50000. Defaults to 50000"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3824
+msgid "Place Types"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:3826
+msgid "Select the place types to use & change their display order."
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4064
+msgid "Map horizontal elements display order"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4065 cpt/inc/cspm-metabox.php:4082
+msgid "Change the display order of the elements displayed on the map"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4069
+msgid "Zoom to country"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4070
+msgid "Map search form"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4071
+msgid "Faceted search form"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4072 shortcodes/cspm-main-map.php:6758
+msgid "Nearby points of interest"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4081
+msgid "Map vertical elements display order"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4086
+msgid "Recenter map"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4087
+msgid "Geo targeting"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4123 wp-settings-framework.php:255
+#: wp-settings-framework.php:265
+msgid "Posts"
+msgstr ""
+
+#: cpt/inc/cspm-metabox.php:4124 wp-settings-framework.php:255
+msgid "Pages"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:233 cpt/inc/cspm-post-type.php:234
+#: cpt/inc/cspm-post-type.php:236 cpt/inc/cspm-post-type.php:238
+msgid "PM. Maps"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:239 cpt/inc/cspm-post-type.php:240
+msgid "Add New Map"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:241
+msgid "Edit Map"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:242
+msgid "New Map"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:243
+msgid "View Map"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:244
+msgid "Search Maps"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:245
+msgid "No Maps found"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:246
+msgid "No Maps found in trash"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:247
+msgid "All Maps"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:250
+msgid "Parent Map"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:251
+msgid "Parent Map:"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:254
+msgid "Maps"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:272
+msgid "Title"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:273
+msgid "Map ID"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:274
+msgid "Shortcode"
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:342 cpt/inc/cspm-post-type.php:343
+#: cpt/inc/cspm-post-type.php:345 cpt/inc/cspm-post-type.php:346
+#: cpt/inc/cspm-post-type.php:350 cpt/inc/cspm-post-type.php:351
+msgid "Map updated."
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:344
+msgid "Map deleted."
+msgstr ""
+
+#: cpt/inc/cspm-post-type.php:347 cpt/inc/cspm-post-type.php:348
+#: cpt/inc/cspm-post-type.php:349
+msgid "Map saved."
+msgstr ""
+
+#: cpt/libs/metabox-field-post-search-ajax/cmb-field-post-search-ajax.php:165
+msgid "Error : Unauthorized action"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2.php:150
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2.php:509
+msgid "Click to toggle"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Ajax.php:189
+#: cpt/libs/metabox/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:406
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:410
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:440
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:442
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:475
+#: cpt/libs/metabox/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Base.php:490
+#: cpt/libs/metabox/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Field.php:1162
+msgid "Add Group"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Field.php:1163
+msgid "Remove Group"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Field.php:1185
+#: cpt/libs/metabox/includes/CMB2_Field.php:1189
+msgid "None"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Field.php:1250
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Field_Display.php:430
+#: cpt/libs/metabox/includes/CMB2_JS.php:167
+#: cpt/libs/metabox/includes/types/CMB2_Type_File_Base.php:78
+msgid "File:"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:107
+#: cpt/libs/metabox/includes/CMB2_JS.php:147
+msgid "Clear"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:108
+msgid "Default"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:109
+msgid "Select Color"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:110
+msgid "Current Color"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:138
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:139
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:140
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:141
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:142
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:143
+msgid "Next"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:144
+msgid "Prev"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:145
+msgid "Today"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:146
+#: cpt/libs/metabox/includes/CMB2_JS.php:156
+msgid "Done"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:150
+msgid "Choose Time"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:151
+msgid "Time"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:152
+msgid "Hour"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:153
+msgid "Minute"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:154
+msgid "Second"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:155
+msgid "Now"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:163
+msgid "Use this file"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:164
+msgid "Use these files"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:165
+#: cpt/libs/metabox/includes/types/CMB2_Type_File_Base.php:63
+msgid "Remove Image"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:166
+#: cpt/libs/metabox/includes/CMB2_Types.php:409
+#: cpt/libs/metabox/includes/types/CMB2_Type_File_Base.php:83
+msgid "Remove"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:168
+#: cpt/libs/metabox/includes/types/CMB2_Type_File_Base.php:81
+msgid "Download"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_JS.php:169
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Types.php:228
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_hookup.php:153
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_hookup.php:157
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: cpt/libs/metabox/includes/CMB2_hookup.php:404
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: cpt/libs/metabox/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: cpt/libs/metabox/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:34
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:46
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:58
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:70
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:82
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:94
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:106
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:118
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:130
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:142
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:154
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:167
+#, php-format
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:272
+msgid "Current page of the collection."
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:280
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:289
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: cpt/libs/metabox/includes/shim/WP_REST_Controller.php:307
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: cpt/libs/metabox/includes/types/CMB2_Type_File.php:40
+msgid "Add or Upload File"
+msgstr ""
+
+#: cpt/libs/metabox/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: cpt/libs/metabox/includes/types/CMB2_Type_Taxonomy_Multicheck.php:28
+#: cpt/libs/metabox/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: progress-map.php:769
+msgid "Give Maps permission to use your location!"
+msgstr ""
+
+#: progress-map.php:770
+msgid ""
+"If you can't center the map on your location, a couple of things might be "
+"going on. It's possible you denied Google Maps access to your location in "
+"the past, or your browser might have an error."
+msgstr ""
+
+#: progress-map.php:771
+msgid ""
+"Browsers no longer supports obtaining the user's location using the HTML5 "
+"Geolocation API from pages delivered by non-secure connections. This means "
+"that the page that's making the Geolocation API call must be served from a "
+"secure context such as HTTPS."
+msgstr ""
+
+#: progress-map.php:777
+msgid "Click to view all markers in this area"
+msgstr ""
+
+#: progress-map.php:783 shortcodes/cspm-main-map.php:3630
+msgid ""
+"A new location has been selected and can be used to display nearby points of "
+"interest!"
+msgstr ""
+
+#: progress-map.php:784
+msgid "First, select a marker/location from the map!"
+msgstr ""
+
+#: progress-map.php:785
+msgid "The circle has reached the maximum distance!"
+msgstr ""
+
+#: progress-map.php:786
+msgid "The circle has reached the minimum distance!"
+msgstr ""
+
+#: progress-map.php:787
+msgid "No {travel_mode} route could be found to your destination!"
+msgstr ""
+
+#: progress-map.php:788
+msgid "You have reached the maximum radius of search!"
+msgstr ""
+
+#: progress-map.php:789
+msgid "You have reached the minimum radius of search!"
+msgstr ""
+
+#: progress-map.php:790
+msgid "No nearby points of interest has been found!"
+msgstr ""
+
+#: progress-map.php:950
+msgid "Progress Map: Add Locations"
+msgstr ""
+
+#: progress-map.php:991
+msgid "Enter an address"
+msgstr ""
+
+#: progress-map.php:995 shortcodes/cspm-frontend-form.php:454
+#: shortcodes/cspm-frontend-form.php:459 shortcodes/cspm-main-map.php:6511
+msgid "Search"
+msgstr ""
+
+#: progress-map.php:1014
+msgid "Marker Icon"
+msgstr ""
+
+#: progress-map.php:1016
+msgid "Upload"
+msgstr ""
+
+#: progress-map.php:1019
+msgid ""
+"Upload a custom marker icon for this post. This will override the default "
+"marker icon and the one selected for this post's category in \"Marker "
+"categories settings\"."
+msgstr ""
+
+#: progress-map.php:1031
+msgid "Use the \"Marker icon\" only on single post maps."
+msgstr ""
+
+#: progress-map.php:1048 shortcodes/cspm-frontend-form.php:493
+msgid "Latitude"
+msgstr ""
+
+#: progress-map.php:1059 shortcodes/cspm-frontend-form.php:498
+msgid "Longitude"
+msgstr ""
+
+#: progress-map.php:1065 shortcodes/cspm-frontend-form.php:503
+msgid "Get Pinpoint"
+msgstr ""
+
+#: progress-map.php:1069
+msgid "Mandatory fields"
+msgstr ""
+
+#: progress-map.php:1083 progress-map.php:1087
+msgid "Add more locations"
+msgstr ""
+
+#: progress-map.php:1091
+msgid ""
+"This field allows you to display the same post on multiple places on the "
+"map. \n"
+"\t\t\t\t\t\t\tFor example, let's say that this post is about \"McDonald's\" "
+"and that you want to use it to show your website's visitors all the "
+"locations in your country/city/town...\n"
+"\t\t\t\t\t\t\twhere they can find \"McDonald's\". So, instead of creating - "
+"for instance - 10 posts with the same content but with different "
+"coordinates, this field will allow you to share the same content with all "
+"the different locations that points to \"McDonald's\".<br />\n"
+"\t\t\t\t\t\t\t<br /><strong>How to use it?</strong><br /><br />\n"
+"\t\t\t\t\t\t\t1. Insert the coordinates of one location in the fields "
+"<strong>Latitude</strong> & <strong>Longitude</strong>.\n"
+"\t\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t\t2. Enter the coordinates of the remaining locations in the "
+"field <strong>\"Add more locations\"</strong> by dragging the marker on the "
+"map to the exact location or by entering the location's address in the field "
+"<strong>\"Enter an address\"</strong>, then, click on the button <strong>"
+"\"Add more locations\".</strong> <br /><br /> \n"
+"\t\t\t\t\t\t\t<strong>Note:</strong> All the locations will share the same "
+"title, content, link and featured image. Each location represents a new item "
+"on the carousel!"
+msgstr ""
+
+#: progress-map.php:1438
+msgid "PM. Coordinates"
+msgstr ""
+
+#: progress-map.php:1564
+msgid "Progress map"
+msgstr ""
+
+#: progress-map.php:1569
+msgid "All maps"
+msgstr ""
+
+#: progress-map.php:1574
+msgid "Add new map"
+msgstr ""
+
+#: progress-map.php:1654
+msgid "Getting started"
+msgstr ""
+
+#: progress-map.php:1655
+msgid "Documentation"
+msgstr ""
+
+#: progress-map.php:1701 progress-map.php:1722
+msgid "<strong><em><u>\"Progress Map v"
+msgstr ""
+
+#: shortcodes/cspm-contact-map.php:459 shortcodes/cspm-light-map.php:748
+#: shortcodes/cspm-main-map.php:5181
+msgid "Zoom in"
+msgstr ""
+
+#: shortcodes/cspm-contact-map.php:462 shortcodes/cspm-light-map.php:751
+#: shortcodes/cspm-main-map.php:5184
+msgid "Zoom out"
+msgstr ""
+
+#: shortcodes/cspm-frontend-form.php:455
+msgid "Enter an address and search"
+msgstr ""
+
+#: shortcodes/cspm-frontend-form.php:523
+msgid "Add Location"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:495
+msgid "More"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:610
+msgid "Enter City & Province, or Postal code"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:611
+msgid "Expand the search area up to"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:612
+msgid "We could not find any location"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:613
+msgid "We could not understand the location"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:614
+msgid "- Make sure all street and city names are spelled correctly."
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:615
+msgid "- Make sure your address includes a city and state."
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:616
+msgid "- Try entering a zip code."
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:617
+msgid "Find it"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:4142
+msgid ""
+"The map center is incorrect. Please make sure that the Latitude & the "
+"Longitude in \"Map Settings => Map center\" are comma separated!"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:5218
+msgid "Recenter the map"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:5238
+msgid "Show your position"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6025 shortcodes/cspm-main-map.php:6115
+msgid "Toggle carousel"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6386
+msgid "Filter"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6448
+msgid "No option found!"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6647
+msgid "Countries"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6685
+msgid "No country found!"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6833
+msgid "Driving"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6837
+msgid "Transit"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6841
+msgid "Walking"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6845
+msgid "Bicycling"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6876
+msgid "Accounting"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6877
+msgid "Airport"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6878
+msgid "Amusement park"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6879
+msgid "Aquarium"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6880
+msgid "Art gallery"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6881
+msgid "Atm"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6882
+msgid "Bakery"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6883
+msgid "Bank"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6884
+msgid "Bar"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6885
+msgid "Beauty salon"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6886
+msgid "Bicycle store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6887
+msgid "Book store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6888
+msgid "Bowling alley"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6889
+msgid "Bus station"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6890
+msgid "Cafe"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6891
+msgid "Campground"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6892
+msgid "Car dealer"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6893
+msgid "Car rental"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6894
+msgid "Car repair"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6895
+msgid "Car wash"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6896
+msgid "Casino"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6897
+msgid "Cemetery"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6898
+msgid "Church"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6899
+msgid "City hall"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6900
+msgid "Clothing store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6901
+msgid "Convenience store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6902
+msgid "Courthouse"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6903
+msgid "Dentist"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6904
+msgid "Department store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6905
+msgid "Doctor"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6906
+msgid "Electrician"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6907
+msgid "Electronics store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6908
+msgid "Embassy"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6909
+msgid "Establishment"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6910
+msgid "Finance"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6911
+msgid "Fire station"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6912
+msgid "Florist"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6913
+msgid "Food"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6914
+msgid "Funeral home"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6915
+msgid "Furniture store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6916
+msgid "Gas station"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6917
+msgid "General contractor"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6918
+msgid "Grocery or supermarket"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6919
+msgid "Gym"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6920
+msgid "Hair care"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6921
+msgid "Hardware store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6922
+msgid "Health"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6923
+msgid "Hindu temple"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6924
+msgid "Home goods store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6925
+msgid "Hospital"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6926
+msgid "Insurance agency"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6927
+msgid "Jewelry store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6928
+msgid "Laundry"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6929
+msgid "Lawyer"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6930
+msgid "Library"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6931
+msgid "Liquor store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6932
+msgid "Local government office"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6933
+msgid "Locksmith"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6934
+msgid "Lodging"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6935
+msgid "Meal delivery"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6936
+msgid "Meal takeaway"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6937
+msgid "Mosque"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6938
+msgid "Movie rental"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6939
+msgid "Movie theater"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6940
+msgid "Moving company"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6941
+msgid "Museum"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6942
+msgid "Night club"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6943
+msgid "Painter"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6944
+msgid "Park"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6945
+msgid "Parking"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6946
+msgid "Pet store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6947
+msgid "Pharmacy"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6948
+msgid "Physiotherapist"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6949
+msgid "Place of worship"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6950
+msgid "Plumber"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6951
+msgid "Police"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6952
+msgid "Post office"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6953
+msgid "Real estate agency"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6954
+msgid "Restaurant"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6955
+msgid "Roofing contractor"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6956
+msgid "Rv park"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6957
+msgid "School"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6958
+msgid "Shoe store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6959
+msgid "Shopping mall"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6960
+msgid "Spa"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6961
+msgid "Stadium"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6962
+msgid "Storage"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6963
+msgid "Store"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6964
+msgid "Subway station"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6965
+msgid "Synagogue"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6966
+msgid "Taxi stand"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6967
+msgid "Train station"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6968
+msgid "Travel agency"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6969
+msgid "University"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6970
+msgid "Veterinary care"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:6971
+msgid "Zoo"
+msgstr ""
+
+#: shortcodes/cspm-main-map.php:7122 shortcodes/cspm-main-map.php:7130
+msgid "Map not available!"
+msgstr ""

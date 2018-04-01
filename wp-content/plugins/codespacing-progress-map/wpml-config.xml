@@ -1,0 +1,17 @@
+<wpml-config>
+
+    <custom-fields>
+
+		<!-- Progress Map Plugin Custom Fields -->
+		
+		<custom-field action="copy">codespacing_progress_map_address</custom-field>
+		<custom-field action="copy">codespacing_progress_map_lat</custom-field>
+		<custom-field action="copy">codespacing_progress_map_lng</custom-field>
+		<custom-field action="copy">codespacing_progress_map_secondary_lat_lng</custom-field>
+		<custom-field action="copy">cspm_single_post_marker_img_only</custom-field>
+		
+    </custom-fields>
+	
+</wpml-config>
+
+

@@ -1,0 +1,227 @@
+.jcarousel-skin-default .jcarousel-container {
+    background: #F1F2F0;	
+	border-top:0px;
+	border-bottom:0px;
+}
+
+.jcarousel-skin-default .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+.jcarousel-skin-default .jcarousel-container-horizontal {
+    width: auto;
+    padding: 10px 0px;
+	margin-top:0px;
+}
+
+.jcarousel-skin-default .jcarousel-container-vertical {
+    width: auto;
+    height: auto;
+    padding: 0px 10px;
+}
+
+.jcarousel-skin-default .jcarousel-clip {
+    overflow: hidden;
+}
+
+.jcarousel-skin-default .jcarousel-clip-horizontal {
+    width:  auto;
+    height: auto;
+}
+
+.jcarousel-skin-default .jcarousel-clip-vertical {
+    width:  auto;
+    height: 100%;
+}
+
+.jcarousel-skin-default .jcarousel-item {
+    width: auto;
+    height: auto;
+	position:relative;
+}
+
+.jcarousel-skin-default .jcarousel-item-horizontal {
+	margin:4px 6px 4px 0;
+	background:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 10px;
+    margin-right: 0;
+}
+
+.jcarousel-skin-default .jcarousel-item-vertical {
+    margin-bottom: 10px;
+	background:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+ 
+.jcarousel-skin-default .jcarousel-next-horizontal {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 40px;
+    height: 100%;
+    cursor: pointer;
+    background-image: url(../img/carousel/right_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;	
+	opacity:0.7
+}
+
+.jcarousel-skin-default .jcarousel-direction-rtl .jcarousel-next-horizontal {
+    left: 0px;
+    right: auto;
+    background-image: url(../img/carousel/right_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-next-horizontal:hover,
+.jcarousel-skin-default .jcarousel-next-horizontal:focus {
+    background-image: url(../img/carousel/right_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity:0.9
+}
+
+.jcarousel-skin-default .jcarousel-next-horizontal:active {
+}
+
+.jcarousel-skin-default .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-default .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-default .jcarousel-next-disabled-horizontal:focus,
+.jcarousel-skin-default .jcarousel-next-disabled-horizontal:active {
+    cursor: default;
+}
+
+.jcarousel-skin-default .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    height: 100%;
+    cursor: pointer;
+    background-image: url(../img/carousel/left_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity:0.7;
+}
+
+.jcarousel-skin-default .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+    left: auto;
+    right: 0px;
+    background-image: url(../img/carousel/left_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-prev-horizontal:hover, 
+.jcarousel-skin-default .jcarousel-prev-horizontal:focus {
+    background-image: url(../img/carousel/left_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity:0.9;	
+}
+
+.jcarousel-skin-default .jcarousel-prev-horizontal:active {
+}
+
+.jcarousel-skin-default .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-default .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-default .jcarousel-prev-disabled-horizontal:focus,
+.jcarousel-skin-default .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+}
+
+/**
+ *  Vertical Buttons
+ */
+ 
+.jcarousel-skin-default .jcarousel-next-vertical {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    background-image: url(../img/carousel/bottom_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity: 0.7;
+}
+
+.jcarousel-skin-default .jcarousel-next-vertical:hover,
+.jcarousel-skin-default .jcarousel-next-vertical:focus {
+    background-image: url(../img/carousel/bottom_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity: 0.9;	
+}
+
+.jcarousel-skin-default .jcarousel-next-vertical:active {
+    background-image: url(../img/carousel/bottom_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-next-disabled-vertical,
+.jcarousel-skin-default .jcarousel-next-disabled-vertical:hover,
+.jcarousel-skin-default .jcarousel-next-disabled-vertical:focus,
+.jcarousel-skin-default .jcarousel-next-disabled-vertical:active {
+    cursor: default;
+}
+
+.jcarousel-skin-default .jcarousel-prev-vertical {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 40px;
+    cursor: pointer;
+    background-image: url(../img/carousel/top_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity: 0.7;
+}
+
+.jcarousel-skin-default .jcarousel-prev-vertical:hover,
+.jcarousel-skin-default .jcarousel-prev-vertical:focus {
+    background-image: url(../img/carousel/top_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+}
+
+.jcarousel-skin-default .jcarousel-prev-vertical:active {
+    background-image: url(../img/carousel/top_arrow.png);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-color:#fff;
+	opacity: 0.9;	
+}
+
+.jcarousel-skin-default .jcarousel-prev-disabled-vertical,
+.jcarousel-skin-default .jcarousel-prev-disabled-vertical:hover,
+.jcarousel-skin-default .jcarousel-prev-disabled-vertical:focus,
+.jcarousel-skin-default .jcarousel-prev-disabled-vertical:active {
+    cursor: default;
+}

@@ -1,0 +1,1767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Babysitter\n"
+"POT-Creation-Date: 2014-11-25 01:00+0200\n"
+"PO-Revision-Date: 2014-11-25 01:00+0200\n"
+"Last-Translator: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language-Team: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "404"
+msgstr ""
+
+#: 404.php:7
+msgid "Return home?"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"Please try using our search box below to look for information on the our "
+"site."
+msgstr ""
+
+#: admin/options-framework.php:182 admin/options-framework.php:183
+#: admin/options-framework.php:412
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-framework.php:228
+msgid "Clear"
+msgstr ""
+
+#: admin/options-framework.php:229
+msgid "Default"
+msgstr ""
+
+#: admin/options-framework.php:230
+msgid "Select Color"
+msgstr ""
+
+#: admin/options-framework.php:275
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:276
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework.php:276
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:308
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:362
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: admin/options-media-uploader.php:54 admin/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: admin/options-media-uploader.php:56 admin/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: admin/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: admin/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: author.php:16
+msgid "About:"
+msgstr ""
+
+#: author.php:27
+msgid "Recent Posts by"
+msgstr ""
+
+#: author.php:39
+msgid "Recent Comments by"
+msgstr ""
+
+#: author.php:48
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: author.php:51
+msgid "No comments by"
+msgstr ""
+
+#: author.php:51
+msgid "yet."
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:32
+msgid "No Comments Yet."
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: formats/content-gallery.php:46 formats/content-link.php:17
+#: formats/content-link.php:21 formats/content-standard.php:24
+#: formats/content-video.php:18 search.php:15
+msgid "Permalink to:"
+msgstr ""
+
+#: formats/content-standard.php:58
+msgid "Read more"
+msgstr ""
+
+#: functions.php:156
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:208
+msgctxt "Job permalink - resave permalinks after changing this"
+msgid "careers"
+msgstr ""
+
+#: functions.php:375
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:378
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:384
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:384
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:449
+msgid "Your Name"
+msgstr ""
+
+#: functions.php:450 functions.php:451 functions.php:465
+msgid "Slogan"
+msgstr ""
+
+#: functions.php:452
+msgid "@yournickname"
+msgstr ""
+
+#: functions.php:453 functions.php:469
+msgid "Photo"
+msgstr ""
+
+#: functions.php:463 job_manager/content-single-job_listing.php:84
+#: job_manager/job-filters.php:13
+msgid "Location"
+msgstr ""
+
+#: functions.php:464 job_manager/content-single-job_listing.php:236
+msgid "Website"
+msgstr ""
+
+#: functions.php:466
+msgid "Brief slogan about yourself"
+msgstr ""
+
+#: functions.php:467
+msgid "Your Twitter"
+msgstr ""
+
+#: functions.php:468
+msgid "@nickname"
+msgstr ""
+
+#: functions.php:470
+msgid "URL to your Photo"
+msgstr ""
+
+#: header.php:59 job_manager/account-signin.php:21
+msgid "Have an account?"
+msgstr ""
+
+#: header.php:59
+msgid "Log in"
+msgstr ""
+
+#: header.php:59
+msgid "or"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:164 includes/plugins.php:90
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:165 includes/plugins.php:91
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:166 includes/plugins.php:92
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:168 includes/plugins.php:94
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:169 includes/plugins.php:95
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:170 includes/plugins.php:96
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:171 includes/plugins.php:97
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:172 includes/plugins.php:98
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:173 includes/plugins.php:99
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:174 includes/plugins.php:100
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:175 includes/plugins.php:101
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:176 includes/plugins.php:102
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:177 includes/plugins.php:103
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:178
+#: includes/class-tgm-plugin-activation.php:490 includes/plugins.php:104
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:179
+#: includes/class-tgm-plugin-activation.php:1846 includes/plugins.php:105
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:517
+#: includes/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1299
+#: includes/theme-portfoliometa.php:16
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/custom-post-types.php:13 includes/theme-pages.php:23
+#: options.php:537
+msgid "Slider"
+msgstr ""
+
+#: includes/custom-post-types.php:35
+msgid "Team"
+msgstr ""
+
+#: includes/custom-post-types.php:36
+msgid "Person"
+msgstr ""
+
+#: includes/custom-post-types.php:61
+msgid "Team Categories"
+msgstr ""
+
+#: includes/custom-post-types.php:62 job_manager/job-filters.php:23
+msgid "Category"
+msgstr ""
+
+#: includes/plugins.php:93
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins.php:106
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar-init.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:9
+msgid "Sidebar located at the right side of blog page by default."
+msgstr ""
+
+#: includes/sidebar-init.php:17
+msgid "Footer Widget 1"
+msgstr ""
+
+#: includes/sidebar-init.php:19
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: includes/sidebar-init.php:27
+msgid "Footer Widget 2"
+msgstr ""
+
+#: includes/sidebar-init.php:29
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: includes/sidebar-init.php:37
+msgid "Footer Widget 3"
+msgstr ""
+
+#: includes/sidebar-init.php:39
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: includes/sidebar-init.php:47
+msgid "Footer Widget 4"
+msgstr ""
+
+#: includes/sidebar-init.php:49
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: includes/theme-pages.php:10
+msgid "Page Appearance"
+msgstr ""
+
+#: includes/theme-pages.php:16 options.php:435
+msgid "Page Title"
+msgstr ""
+
+#: includes/theme-pages.php:17
+msgid "You can enable or disable page title."
+msgstr ""
+
+#: includes/theme-pages.php:24
+msgid "You can enable or disable slider."
+msgstr ""
+
+#: includes/theme-portfoliometa.php:10
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/theme-portfoliometa.php:17
+msgid "Choose type. "
+msgstr ""
+
+#: includes/theme-portfoliometa.php:28
+msgid "Video Settings"
+msgstr ""
+
+#: includes/theme-portfoliometa.php:34
+msgid "Video URL"
+msgstr ""
+
+#: includes/theme-portfoliometa.php:35
+msgid "Put video url here."
+msgstr ""
+
+#: includes/theme-postmeta.php:12
+msgid "Quote Settings"
+msgstr ""
+
+#: includes/theme-postmeta.php:17
+msgid "Author"
+msgstr ""
+
+#: includes/theme-postmeta.php:18
+msgid "Put quote author in this field."
+msgstr ""
+
+#: includes/theme-postmeta.php:23 includes/theme-teammeta.php:16
+msgid "Position"
+msgstr ""
+
+#: includes/theme-postmeta.php:24
+msgid "Put author position in this field."
+msgstr ""
+
+#: includes/theme-postmeta.php:36
+msgid "Link Settings"
+msgstr ""
+
+#: includes/theme-postmeta.php:41
+msgid "The URL"
+msgstr ""
+
+#: includes/theme-postmeta.php:42
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: includes/theme-slidemeta.php:10
+msgid "Options"
+msgstr ""
+
+#: includes/theme-slidemeta.php:16
+msgid "Link Text"
+msgstr ""
+
+#: includes/theme-slidemeta.php:17
+msgid "Type in text for link or leave empty."
+msgstr ""
+
+#: includes/theme-slidemeta.php:23
+msgid "URL"
+msgstr ""
+
+#: includes/theme-slidemeta.php:24
+msgid "Type in URL for link or leave empty."
+msgstr ""
+
+#: includes/theme-teammeta.php:10
+msgid "Personal Information"
+msgstr ""
+
+#: includes/theme-teammeta.php:17
+msgid "Input person position here. "
+msgstr ""
+
+#: includes/theme-teammeta.php:23
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-teammeta.php:24
+msgid "Link to Twitter account."
+msgstr ""
+
+#: includes/theme-teammeta.php:30
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-teammeta.php:31
+msgid "Link to Facebook account."
+msgstr ""
+
+#: includes/theme-teammeta.php:37
+msgid "Google+"
+msgstr ""
+
+#: includes/theme-teammeta.php:38
+msgid "Link to google+ account."
+msgstr ""
+
+#: includes/theme-teammeta.php:44
+msgid "Dribbble"
+msgstr ""
+
+#: includes/theme-teammeta.php:45
+msgid "Link to dribbble account."
+msgstr ""
+
+#: includes/theme-teammeta.php:51
+msgid "Linkedin"
+msgstr ""
+
+#: includes/theme-teammeta.php:52
+msgid "Link to Linkedin account."
+msgstr ""
+
+#: includes/widgets/flickr_widget.php:77 includes/widgets/posts_widget.php:121
+#: includes/widgets/social_links.php:125
+#: includes/widgets/twitter_widget.php:159
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/flickr_widget.php:82
+msgid "ID:"
+msgstr ""
+
+#: includes/widgets/flickr_widget.php:87
+msgid "Number of images:"
+msgstr ""
+
+#: includes/widgets/posts_widget.php:126
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/posts_widget.php:131
+msgid "Button Text:"
+msgstr ""
+
+#: includes/widgets/posts_widget.php:136
+msgid "Button URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:129
+msgid "Twitter Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:133
+msgid "Facebook Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:137
+msgid "Google+ Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:141
+msgid "Dribbble Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:145
+msgid "Pinterest Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:149
+msgid "Linkedin Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:153
+msgid "Instagram Link:"
+msgstr ""
+
+#: includes/widgets/social_links.php:157
+msgid "YouTube Channel:"
+msgstr ""
+
+#: includes/widgets/social_links.php:161
+msgid "RSS Link:"
+msgstr ""
+
+#: includes/widgets/twitter_widget.php:164
+msgid "Number of Tweets:"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:130
+#: includes/wp-job-manager-fields.php:473
+#: job_manager/content-single-job_listing.php:79
+msgid "Hourly Rate"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:132
+msgid "10-15 etc"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:138
+#: includes/wp-job-manager-fields.php:479
+#: job_manager/content-single-job_listing.php:89
+msgid "Gender"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:144
+#: includes/wp-job-manager-fields.php:480
+#: job_manager/content-single-job_listing.php:92
+msgid "Female"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:145
+#: job_manager/content-single-job_listing.php:94
+msgid "Male"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:149
+#: includes/wp-job-manager-fields.php:485
+#: job_manager/content-single-job_listing.php:101
+msgid "Age"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:157
+#: includes/wp-job-manager-fields.php:491
+#: job_manager/content-single-job_listing.php:107
+msgid "Experience"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:165
+#: includes/wp-job-manager-fields.php:497
+#: job_manager/content-single-job_listing.php:112
+msgid "Smokes"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:171
+#: includes/wp-job-manager-fields.php:200
+#: includes/wp-job-manager-fields.php:213
+#: includes/wp-job-manager-fields.php:226
+#: includes/wp-job-manager-fields.php:239
+#: includes/wp-job-manager-fields.php:252
+#: includes/wp-job-manager-fields.php:265
+#: includes/wp-job-manager-fields.php:278
+#: includes/wp-job-manager-fields.php:291
+#: includes/wp-job-manager-fields.php:304
+#: includes/wp-job-manager-fields.php:317
+#: includes/wp-job-manager-fields.php:520
+#: includes/wp-job-manager-fields.php:530
+#: includes/wp-job-manager-fields.php:540
+#: includes/wp-job-manager-fields.php:550
+#: includes/wp-job-manager-fields.php:560
+#: includes/wp-job-manager-fields.php:570
+#: includes/wp-job-manager-fields.php:580
+#: includes/wp-job-manager-fields.php:590
+#: includes/wp-job-manager-fields.php:600
+#: includes/wp-job-manager-fields.php:610
+#: job_manager/content-single-job_listing.php:117
+msgid "No"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:172
+#: includes/wp-job-manager-fields.php:201
+#: includes/wp-job-manager-fields.php:214
+#: includes/wp-job-manager-fields.php:227
+#: includes/wp-job-manager-fields.php:240
+#: includes/wp-job-manager-fields.php:253
+#: includes/wp-job-manager-fields.php:266
+#: includes/wp-job-manager-fields.php:279
+#: includes/wp-job-manager-fields.php:292
+#: includes/wp-job-manager-fields.php:305
+#: includes/wp-job-manager-fields.php:318
+#: includes/wp-job-manager-fields.php:519
+#: includes/wp-job-manager-fields.php:529
+#: includes/wp-job-manager-fields.php:539
+#: includes/wp-job-manager-fields.php:549
+#: includes/wp-job-manager-fields.php:559
+#: includes/wp-job-manager-fields.php:569
+#: includes/wp-job-manager-fields.php:579
+#: includes/wp-job-manager-fields.php:589
+#: includes/wp-job-manager-fields.php:599
+#: includes/wp-job-manager-fields.php:609
+#: job_manager/content-single-job_listing.php:115
+msgid "Yes"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:177
+#: includes/wp-job-manager-fields.php:503
+#: job_manager/content-single-job_listing.php:123
+msgid "Education"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:185
+#: includes/wp-job-manager-fields.php:509
+#: job_manager/content-single-job_listing.php:129
+msgid "Languages"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:187
+#: includes/wp-job-manager-fields.php:510
+msgid "English, German etc"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:194
+#: includes/wp-job-manager-fields.php:515
+#: job_manager/content-single-job_listing.php:144
+msgid "First Aid Training"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:220
+#: includes/wp-job-manager-fields.php:535
+#: job_manager/content-single-job_listing.php:162
+msgid "TrustLine Certified"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:233
+#: includes/wp-job-manager-fields.php:545
+#: job_manager/content-single-job_listing.php:171
+msgid "Doula"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:246
+#: includes/wp-job-manager-fields.php:555
+#: job_manager/content-single-job_listing.php:180
+msgid "Has Transportation"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:259
+#: includes/wp-job-manager-fields.php:565
+#: job_manager/content-single-job_listing.php:189
+msgid "Will travel 50 mi"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:272
+#: includes/wp-job-manager-fields.php:575
+#: job_manager/content-single-job_listing.php:198
+msgid "Special Needs Care"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:285
+#: includes/wp-job-manager-fields.php:585
+#: job_manager/content-single-job_listing.php:207
+msgid "Comfortable with pets"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:298
+#: includes/wp-job-manager-fields.php:595
+#: job_manager/content-single-job_listing.php:216
+msgid "Certified Nursing Assistant"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:311
+#: includes/wp-job-manager-fields.php:605
+#: job_manager/content-single-job_listing.php:225
+msgid "Live-in nanny"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:504
+msgid "College etc"
+msgstr ""
+
+#: includes/wp-job-manager-fields.php:525
+#: job_manager/content-single-job_listing.php:153
+msgid "CPR Certified"
+msgstr ""
+
+#: job_manager/account-signin.php:4
+msgid "Your account"
+msgstr ""
+
+#: job_manager/account-signin.php:8
+#, php-format
+msgid "You are currently signed in as <strong>%s</strong>."
+msgstr ""
+
+#: job_manager/account-signin.php:11
+msgid "Sign out"
+msgstr ""
+
+#: job_manager/account-signin.php:23
+msgid "Sign in"
+msgstr ""
+
+#: job_manager/account-signin.php:27
+#, php-format
+msgid ""
+"<div class=\"inner-wrapper\">If you don&lsquo;t have an account you can "
+"%screate one below by entering your email address. A password will be "
+"automatically emailed to you.</div>"
+msgstr ""
+
+#: job_manager/account-signin.php:27
+msgid "optionally"
+msgstr ""
+
+#: job_manager/account-signin.php:31
+msgid "You must sign in to create a new job listing."
+msgstr ""
+
+#: job_manager/account-signin.php:38
+msgid "Your email"
+msgstr ""
+
+#: job_manager/account-signin.php:38 job_manager/job-submit.php:24
+#: job_manager/job-submit.php:40
+msgid "(optional)"
+msgstr ""
+
+#: job_manager/content-job_listing.php:46
+#: job_manager/content-single-job_listing.php:57
+msgid "ago"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:50
+msgid "This job listing has expired"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:57
+msgid "Posted"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:60
+msgid "This position has been filled"
+msgstr ""
+
+#: job_manager/job-application.php:5
+msgid "Hire Now!"
+msgstr ""
+
+#: job_manager/job-application.php:12
+#, php-format
+msgid ""
+"To hire this person <strong>email your details to</strong> <a class="
+"\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+msgstr ""
+
+#: job_manager/job-application.php:14
+msgid "Hire using webmail: "
+msgstr ""
+
+#: job_manager/job-application.php:28
+#, php-format
+msgid ""
+"To hire this person please visit the following URL: <a href=\"%1$s\">%1$s "
+"&rarr;</a>"
+msgstr ""
+
+#: job_manager/job-filters.php:8
+msgid "Keywords"
+msgstr ""
+
+#: job_manager/job-filters.php:9
+msgid "All Carers"
+msgstr ""
+
+#: job_manager/job-filters.php:14
+msgid "Any Location"
+msgstr ""
+
+#: job_manager/job-filters.php:24
+msgid "All Job Categories"
+msgstr ""
+
+#: job_manager/job-submit.php:34
+msgid "Your details"
+msgstr ""
+
+#: job_manager/job-submitted.php:4
+#, php-format
+msgid ""
+"<div class=\"alert alert-success\">Job listed successfully. To view your job "
+"listing <a href=\"%s\">click here</a>.</div>"
+msgstr ""
+
+#: job_manager/job-submitted.php:7
+msgid ""
+"<div class=\"alert alert-success\">Job submitted successfully. Your job "
+"listing will be visible once approved.</div>"
+msgstr ""
+
+#: loop.php:13 search.php:29
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: options.php:30
+msgid "Image Logo"
+msgstr ""
+
+#: options.php:31
+msgid "Text Logo"
+msgstr ""
+
+#: options.php:141
+msgid "What kind of logo?"
+msgstr ""
+
+#: options.php:142
+msgid ""
+"If you select '<em>Image Logo</em>' you can put in the image url in the next "
+"option, and if you select '<em>Text Logo</em>' your Site Title will show "
+"instead."
+msgstr ""
+
+#: options.php:149
+msgid "Logo Image"
+msgstr ""
+
+#: options.php:150
+msgid "Upload a custom logo for your Site."
+msgstr ""
+
+#: options.php:156
+msgid "Favicon"
+msgstr ""
+
+#: options.php:157
+msgid ""
+"Upload a custom favicon for your Site. <i><strong>Format</strong>: ico</i> "
+"<i><strong>Size</strong>: 16x16</i>"
+msgstr ""
+
+#: options.php:163
+msgid "iPhone Favicon"
+msgstr ""
+
+#: options.php:164
+msgid ""
+"Upload a custom iPhone favicon for your Site. <i><strong>Format</strong>: "
+"png</i> <i><strong>Size</strong>: 57x57</i> <i>For iPhone 2G/3G/3GS, 2011 "
+"iPod Touch and older Android devices </i>"
+msgstr ""
+
+#: options.php:170
+msgid "iPad Favicon"
+msgstr ""
+
+#: options.php:171
+msgid ""
+"Upload a custom iPad favicon for your Site. <i><strong>Format</strong>: png</"
+"i> <i><strong>Size</strong>: 72x72</i> <i>For 1st generation iPad, iPad 2 "
+"and iPad mini.</i>"
+msgstr ""
+
+#: options.php:177
+msgid "iPhone Retina Favicon"
+msgstr ""
+
+#: options.php:178
+msgid ""
+"Upload a custom favicon for iPhone/Touch Retina based devices. "
+"<i><strong>Format</strong>: png</i> <i><strong>Size</strong>: 114x114</i> "
+"<i>For iPhone 4, 4S, 5 and 2012 iPod Touch.</i>"
+msgstr ""
+
+#: options.php:184
+msgid "iPad 3+ Favicon"
+msgstr ""
+
+#: options.php:185
+msgid ""
+"Upload a custom favicon for iPad 3rd and 4th generation. <i><strong>Format</"
+"strong>: png</i> <i><strong>Size</strong>: 144x144</i> <i>For iPad 3rd and "
+"4th generation.</i>"
+msgstr ""
+
+#: options.php:191
+msgid "Header Info"
+msgstr ""
+
+#: options.php:192
+msgid "You can put some text here (eg phone number) or leave empty."
+msgstr ""
+
+#: options.php:199
+msgid "Responsive Design"
+msgstr ""
+
+#: options.php:200
+msgid "Use the responsive design features?"
+msgstr ""
+
+#: options.php:208
+msgid "Layout"
+msgstr ""
+
+#: options.php:209
+msgid "Choose between fullwidth and boxed layouts."
+msgstr ""
+
+#: options.php:217
+msgid "Show Top Bar?"
+msgstr ""
+
+#: options.php:218
+msgid "Do you want to show Top Bar in the Header?"
+msgstr ""
+
+#: options.php:226
+msgid "Show footer widgets?"
+msgstr ""
+
+#: options.php:227
+msgid "Do you want to show footer widgets?"
+msgstr ""
+
+#: options.php:235
+msgid "Copyright"
+msgstr ""
+
+#: options.php:236
+msgid "Enter text used in the left side of the footer. HTML tags are allowed."
+msgstr ""
+
+#: options.php:242
+msgid "Google Analytics Code"
+msgstr ""
+
+#: options.php:243
+msgid ""
+"You can paste your Google Analytics or other tracking code in this box. This "
+"will be automatically added to the footer. <em>Paste your code without &lt;"
+"script&gt; tag</em>"
+msgstr ""
+
+#: options.php:254 options.php:814
+msgid "Styling"
+msgstr ""
+
+#: options.php:258
+msgid "Color 1"
+msgstr ""
+
+#: options.php:259
+msgid "Primary Color."
+msgstr ""
+
+#: options.php:265
+msgid "Color 2"
+msgstr ""
+
+#: options.php:266
+msgid "Secondary Color."
+msgstr ""
+
+#: options.php:272
+msgid "Color 3"
+msgstr ""
+
+#: options.php:273
+msgid "Tertiary Color."
+msgstr ""
+
+#: options.php:279
+msgid "Color 4"
+msgstr ""
+
+#: options.php:280
+msgid "Quaternary Color."
+msgstr ""
+
+#: options.php:286
+msgid "Color 5"
+msgstr ""
+
+#: options.php:287
+msgid "Quinary Color."
+msgstr ""
+
+#: options.php:293
+msgid "Color 6"
+msgstr ""
+
+#: options.php:294
+msgid "Sextuple Color."
+msgstr ""
+
+#: options.php:300
+msgid "Body Background"
+msgstr ""
+
+#: options.php:301
+msgid "Change the body background."
+msgstr ""
+
+#: options.php:307
+msgid "Content Background Color"
+msgstr ""
+
+#: options.php:308
+msgid "Background color for content box."
+msgstr ""
+
+#: options.php:314
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:315
+msgid ""
+"Want to add any custom CSS code? Put in here, and the rest is taken care of. "
+"This overrides any other stylesheets. eg: a {color:red}"
+msgstr ""
+
+#: options.php:323 options.php:947
+msgid "Typography"
+msgstr ""
+
+#: options.php:327
+msgid "Body"
+msgstr ""
+
+#: options.php:328
+msgid "Body typography."
+msgstr ""
+
+#: options.php:334
+msgid "Navigation"
+msgstr ""
+
+#: options.php:335
+msgid "Customize typography for main navigation."
+msgstr ""
+
+#: options.php:342
+msgid "Navigation Text Color on Hover"
+msgstr ""
+
+#: options.php:343
+msgid "Choose navigation text color on hover."
+msgstr ""
+
+#: options.php:349
+msgid "Sub Navigation Text Color"
+msgstr ""
+
+#: options.php:350
+msgid "Choose subnavigation text color."
+msgstr ""
+
+#: options.php:356
+msgid "Sub Navigation Text Color on Hover"
+msgstr ""
+
+#: options.php:357
+msgid "Choose subnavigation text color on hover."
+msgstr ""
+
+#: options.php:363
+msgid "Sub Navigation background on Hover"
+msgstr ""
+
+#: options.php:364
+msgid "Choose subnavigation background color on hover."
+msgstr ""
+
+#: options.php:369
+msgid "H1 Heading"
+msgstr ""
+
+#: options.php:380
+msgid "H2 Heading"
+msgstr ""
+
+#: options.php:391
+msgid "H3 Heading"
+msgstr ""
+
+#: options.php:402
+msgid "H4 Heading"
+msgstr ""
+
+#: options.php:413
+msgid "H5 Heading"
+msgstr ""
+
+#: options.php:424
+msgid "H6 Heading"
+msgstr ""
+
+#: options.php:436
+msgid "Select a custom font to be used for Page Title."
+msgstr ""
+
+#: options.php:447
+msgid "Twitter Link"
+msgstr ""
+
+#: options.php:448
+msgid "Put link to your Twitter account."
+msgstr ""
+
+#: options.php:455
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:456
+msgid "Put link to your Facebook account."
+msgstr ""
+
+#: options.php:463
+msgid "Google+ Link"
+msgstr ""
+
+#: options.php:464
+msgid "Put link to your Google+ account."
+msgstr ""
+
+#: options.php:471
+msgid "Dribbble Link"
+msgstr ""
+
+#: options.php:472
+msgid "Put link to your Dribbble account."
+msgstr ""
+
+#: options.php:479
+msgid "YouTube Link"
+msgstr ""
+
+#: options.php:480
+msgid "Put link to your YouTube account."
+msgstr ""
+
+#: options.php:487
+msgid "Pinterest Link"
+msgstr ""
+
+#: options.php:488
+msgid "Put link to your Pinterest account."
+msgstr ""
+
+#: options.php:495
+msgid "Instagram Link"
+msgstr ""
+
+#: options.php:496
+msgid "Put link to your Instagram account."
+msgstr ""
+
+#: options.php:503
+msgid "LinkedIn Link"
+msgstr ""
+
+#: options.php:504
+msgid "Put link to your LinkedIn account."
+msgstr ""
+
+#: options.php:511
+msgid "Yelp Link"
+msgstr ""
+
+#: options.php:512
+msgid "Put link to your Yelp account."
+msgstr ""
+
+#: options.php:519
+msgid "RSS Link"
+msgstr ""
+
+#: options.php:520
+msgid "Put link to your rss feed."
+msgstr ""
+
+#: options.php:527
+msgid "Email Address"
+msgstr ""
+
+#: options.php:528
+msgid "Put your email address."
+msgstr ""
+
+#: options.php:541
+msgid "Display Box Title?"
+msgstr ""
+
+#: options.php:542
+msgid "Do you want to display box title on slide?"
+msgstr ""
+
+#: options.php:551
+msgid "Slider Effect"
+msgstr ""
+
+#: options.php:552
+msgid "Select your animation type."
+msgstr ""
+
+#: options.php:561
+msgid "Start at"
+msgstr ""
+
+#: options.php:562
+msgid ""
+"The slide that the slider should start on. Array notation (0 = first slide)."
+msgstr ""
+
+#: options.php:569
+msgid "Autoplay"
+msgstr ""
+
+#: options.php:570
+msgid "Auto play the slider or not."
+msgstr ""
+
+#: options.php:579
+msgid "Slideshow Speed"
+msgstr ""
+
+#: options.php:580
+msgid "Set the speed of the slideshow cycling, in milliseconds"
+msgstr ""
+
+#: options.php:587
+msgid "Controls"
+msgstr ""
+
+#: options.php:588
+msgid "Display slide controls (1,2,3 etc.)?"
+msgstr ""
+
+#: options.php:597
+msgid "Previous/next"
+msgstr ""
+
+#: options.php:598
+msgid "Create navigation for previous/next navigation?"
+msgstr ""
+
+#: options.php:607
+msgid "Randomize"
+msgstr ""
+
+#: options.php:608
+msgid "Randomize slide order."
+msgstr ""
+
+#: options.php:622
+msgid "Blog"
+msgstr ""
+
+#: options.php:626
+msgid "Blog Title"
+msgstr ""
+
+#: options.php:627
+msgid "Enter Your Blog Title used on Blog page."
+msgstr ""
+
+#: options.php:633
+msgid "Sidebar position"
+msgstr ""
+
+#: options.php:634
+msgid "Choose sidebar position."
+msgstr ""
+
+#: options.php:645
+msgid "Post Meta Box"
+msgstr ""
+
+#: options.php:646
+msgid ""
+"The metabox is displayed by default. <em>Un-check this box to disable this "
+"functionality and hide metaboxes.</em>"
+msgstr ""
+
+#: options.php:655
+msgid "Contacts"
+msgstr ""
+
+#: options.php:659
+msgid "Show Google map?"
+msgstr ""
+
+#: options.php:660
+msgid "Do you want to show google map?"
+msgstr ""
+
+#: options.php:668
+msgid "Google Map"
+msgstr ""
+
+#: options.php:669
+msgid "Google map coordinates."
+msgstr ""
+
+#: options.php:675
+msgid "Zoom Level"
+msgstr ""
+
+#: options.php:676
+msgid "Google map zoom level."
+msgstr ""
+
+#: options.php:682
+msgid "Contact Title"
+msgstr ""
+
+#: options.php:683
+msgid "Title for contact info block."
+msgstr ""
+
+#: options.php:689
+msgid "Google Map Title"
+msgstr ""
+
+#: options.php:690
+msgid "Title for Google Map (used on Contact v2 Template)."
+msgstr ""
+
+#: options.php:696
+msgid "Address"
+msgstr ""
+
+#: options.php:697
+msgid "Put your address here."
+msgstr ""
+
+#: options.php:703
+msgid "Phone"
+msgstr ""
+
+#: options.php:704
+msgid "Put your phone here."
+msgstr ""
+
+#: options.php:710
+msgid "Email"
+msgstr ""
+
+#: options.php:711
+msgid "Put your email address here."
+msgstr ""
+
+#: options.php:717
+msgid "Site"
+msgstr ""
+
+#: options.php:718
+msgid "Put your site url here."
+msgstr ""
+
+#: options.php:724
+msgid "Info"
+msgstr ""
+
+#: options.php:725
+msgid "Put your additional info here."
+msgstr ""
+
+#: options.php:731
+msgid "Jobs"
+msgstr ""
+
+#: options.php:735
+msgid "Currency for Jobs"
+msgstr ""
+
+#: options.php:736
+msgid "Please select currency shows on job listing pages."
+msgstr ""
+
+#: options.php:781
+msgid "Logo"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: title.php:9
+#, php-format
+msgid "<span>%s</span> Search Results for "
+msgstr ""
+
+#: title.php:19
+msgid "Page not found"
+msgstr ""
+
+#: title.php:25
+msgid "Category Archives"
+msgstr ""
+
+#: title.php:32
+msgid "Daily Archives"
+msgstr ""
+
+#: title.php:35
+msgid "Monthly Archives"
+msgstr ""
+
+#: title.php:38
+msgid "Yearly Archives"
+msgstr ""
+
+#: title.php:41
+msgid "Tag Archives"
+msgstr ""
